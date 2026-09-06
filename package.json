@@ -1,0 +1,12 @@
+{
+  "name": "doraemon-store-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.14",
+    "pino": "^9.3.2"
+  }
+}
