@@ -1,1 +1,1 @@
-# doraemon-store-bot
+# DORAEMON-STORE-BOT
